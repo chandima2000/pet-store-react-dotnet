@@ -30,6 +30,7 @@ This project is a Fullstack Pet Store application built using React 18, ASP.NET 
 - Implement additional functionalities such as search and filters.
 
 
-
+## Contributing
+We welcome contributions from the community.
 Feel free to contribute to this project by forking and submitting a pull request!
 
