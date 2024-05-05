@@ -16,7 +16,7 @@ export default function Home() {
             onClick={() => navigate("/products")}
         >Product List
         </Button>
-        <img src={Pets} alt='kitten' />
+        <img src={Pets} alt='pets' />
     </div>
   )
 }
