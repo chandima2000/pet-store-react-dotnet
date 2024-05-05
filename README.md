@@ -9,6 +9,7 @@ This project is a Fullstack Pet Store application built using React 18, ASP.NET 
 
 ## Features
 - CRUD operations for managing pet store data
+- Entity Framework Core , Entity Framework Core.tools , Entity Framework Core.sqlserver 
 - User-friendly UI with SASS and Material-UI
 - Integration of Momonet.js for specific functionalities
 - Use of sweetalert2 for enhanced user alerts
