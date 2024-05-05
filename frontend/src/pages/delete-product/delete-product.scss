@@ -1,0 +1,11 @@
+@import '../../mixins';
+
+.delete-product{
+    @include main-style();
+    h2{
+        color: red;
+    }
+    h4{
+        color: black;
+    }
+}

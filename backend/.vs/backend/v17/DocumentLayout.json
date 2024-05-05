@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\entities\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|c:\\users\\asus\\desktop\\pet store\\backend\\backend\\dtos\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488985E6-2FFD-410C-B8BC-3B52ACDEDDB8}|backend\\backend.csproj|solutionrelative:backend\\dtos\\createupdateproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-05T04:46:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUpdateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Dtos\\CreateUpdateProductDto.cs",
+              "RelativeDocumentMoniker": "backend\\Dtos\\CreateUpdateProductDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Dtos\\CreateUpdateProductDto.cs",
+              "RelativeToolTip": "backend\\Dtos\\CreateUpdateProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:44:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "backend",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T18:43:56.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:38:34.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T18:15:30.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "backend\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:05:27.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Entities\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "backend\\Entities\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Entities\\ProductEntity.cs",
+              "RelativeToolTip": "backend\\Entities\\ProductEntity.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:01:16.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\Pet Store\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:00:27.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
